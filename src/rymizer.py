@@ -17,7 +17,7 @@ https://mutagen.readthedocs.io/en/latest/user/id3.html
 """
 
 # TODO:
-# find a id3 tag to place descriptors in
+# find an id3 tag to place descriptors in
 # add support for other tags?
 # prepare and submit to PyPI for easy install (http://peterdowns.com/posts/first-time-with-pypi.html)
 
